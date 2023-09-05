@@ -1,2 +1,2 @@
 個人ブログのコンテンツ管理用  
-https://www.sori883.dev/
+https://sori883.dev/
