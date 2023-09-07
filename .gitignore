@@ -1,0 +1,47 @@
+node_modules
+.pnp
+.pnp.js
+dist
+npm-debug.log
+*.pem
+!mock-cert.pem
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# next.js
+.next/
+out/
+
+# local env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# Tests
+coverage
+.nyc_output
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
